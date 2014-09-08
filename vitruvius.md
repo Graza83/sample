@@ -37,7 +37,7 @@ The following section defines the other services used in order to perform the re
 %%%Service
 type: Service
 name: PaymentService
-link: /PaymentService
+link: ../../services/PaymentService
 %%%
 
 # Transactions

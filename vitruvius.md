@@ -3,7 +3,7 @@ status: Draft
 version: 0.1
 author: Amin Mohammed-Coleman <amin.mohammed-coleman@digital.cabinet-office.gov.uk>
 description: Very brief description of this service.  
-lastUpdated: 22/08/2014
+lastUpdated: 08/09/2014
 %%%
 
 # People Look Up Service

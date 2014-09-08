@@ -41,19 +41,13 @@ link: ../../services/PaymentService
 %%%
 
 # Transactions
-
 In order to fulfil the requirements of the business service, our service has to perform interaction with multiple other services. The following shows how my example service interacts with the other services defined in this architecture document.
-
----
-title: Transaction Example
-type: transaction
-name: Services Transaction
----
-
+%%%sequence
 MyService->PeopleLookUpService: Find Person
 Note right of PeopleLookUpService: PeopleLookUpService performs a look up
 PeopleLookUpService-->MyService: Returns an individual
-MyService->>PeopleLookUpService: Confirmation
+MyService->>PeopleLookUpService: Confirmation Acknowledged
+%%%
 
 
 # Further Reading

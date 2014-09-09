@@ -1,6 +1,6 @@
 %%%MetaData
 status: Draft
-version: 0.1
+version: 0.2
 author: Amin Mohammed-Coleman <amin.mohammed-coleman@digital.cabinet-office.gov.uk>
 description: Very brief description of this service. 
 lastUpdated: 08/09/2014

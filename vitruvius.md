@@ -1,4 +1,3 @@
----
 %%%MetaData
 status: Draft
 version: 0.2
@@ -6,7 +5,7 @@ author: Amin Mohammed-Coleman <amin.mohammed-coleman@digital.cabinet-office.gov.
 description: Example Service Definition 
 lastUpdated: 08/09/2014
 %%%
----
+
 
 # People Look Up Service
 

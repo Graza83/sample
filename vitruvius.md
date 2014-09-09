@@ -2,7 +2,7 @@
 status: Draft
 version: 0.1
 author: Amin Mohammed-Coleman <amin.mohammed-coleman@digital.cabinet-office.gov.uk>
-description: Very brief description of this service. Test 
+description: Very brief description of this service. 
 lastUpdated: 08/09/2014
 %%%
 

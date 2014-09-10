@@ -14,7 +14,7 @@ Example People look up service.
 
 # Context
 
-Used to find individuals using email address and surname.
+Used to find individuals using email address and surname. 
 
 # Components
 
@@ -35,7 +35,7 @@ The following components where used to build this example service
 
 # Services
 
-The following section defines the other services used in order to perform the required business function.
+The following section defines the other services used in order to perform the required business function. Sample
 
 %%%Service
 type: Service

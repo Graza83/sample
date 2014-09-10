@@ -14,7 +14,7 @@ Example People look up service.
 
 # Context
 
-Used to find individuals using email address and surname. 
+Used to find individuals using email address and surname. Sample
 
 # Components
 

@@ -9,11 +9,12 @@ lastUpdated: 08/09/2014
 
 # People Look Up Service
 
+Example People look up service.
 
 
 # Context
 
-
+Used to find individuals using email address and surname.
 
 # Components
 

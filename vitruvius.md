@@ -35,7 +35,7 @@ The following components where used to build this example service
 
 # Services
 
-The following section defines the other services used in order to perform the required business function.
+The following section defines the other services used in order to perform the required business function. Sample
 
 %%%Service
 type: Service

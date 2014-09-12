@@ -49,7 +49,7 @@ In order to fulfil the requirements of the business service, our service has to 
 MyService->PeopleLookUpService: Find Person
 Note right of PeopleLookUpService: PeopleLookUpService performs a look up
 PeopleLookUpService-->MyService: Returns an individual
-MyService->>PeopleLookUpService: Confirmation
+MyService->>PeopleLookUpService: Confirmation Acknowledged
 %%%
 
 

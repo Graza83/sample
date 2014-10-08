@@ -4,6 +4,8 @@ version: 0.2
 author: Amin Mohammed-Coleman <amin.mohammed-coleman@digital.cabinet-office.gov.uk>
 description: Example Service Definition 
 lastUpdated: 10/09/2014
+type: component
+department: GDS
 %%%
 
 
@@ -38,7 +40,6 @@ The following components where used to build this example service
 The following section defines the other services used in order to perform the required business function.
 
 %%%Service
-type: Service
 name: PaymentService
 link: ../../services/PaymentService
 %%%

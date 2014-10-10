@@ -1,6 +1,6 @@
 %%%MetaData
 status: Draft
-version: 0.2
+version: 1.0
 author: Amin Mohammed-Coleman <amin.mohammed-coleman@digital.cabinet-office.gov.uk>
 description: Example Service Definition 
 lastUpdated: 10/09/2014
@@ -11,7 +11,7 @@ department: GDS
 
 # People Look Up Service
 
-Example People look up service.
+Example People look up service. Test
 
 Test business service.
 

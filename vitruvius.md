@@ -11,7 +11,7 @@ department: GDS
 
 # People Look Up Service
 
-Example People look up service. Test
+Example People look up service.
 
 Test business service.
 

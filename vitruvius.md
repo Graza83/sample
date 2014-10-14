@@ -21,19 +21,15 @@ Test business service.
 # Components
 
 The following components where used to build this example service
-    - name: component one
-      description:
-        Here I describe the component one in some detail. It should
-        perhaps be snapped out as a separate element?        
-	- name: component two
-	  description:
-	   	Here I describe the component one in some detail. It should
-	    perhaps be snapped out as a separate element?        
-	- name: component three
-	  description:
-		Here I describe the component one in some detail. It should
-		perhaps be snapped out as a separate element?        
-  
+%%%Component
+name: Dao Component
+description: Used for Database interaction
+link: ../services/daoComponent
+%%%  
+%%%Component
+name: PaymentService
+link: ../services/paymentComponent
+%%%
 
 # Services
 

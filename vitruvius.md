@@ -31,14 +31,7 @@ name: PaymentService
 link: ../services/paymentComponent
 %%%
 
-# Services
 
-The following section defines the other services used in order to perform the required business function.
-
-%%%Service
-name: PaymentService
-link: ../../services/PaymentService
-%%%
 
 # Transactions
 In order to fulfil the requirements of the business service, our service has to perform interaction with multiple other services. The following shows how my example service interacts with the other services defined in this architecture document.

@@ -4,6 +4,8 @@ description: Example Service Definition
 lastUpdated: 10/09/2014
 type: component
 department: departmentC
+status: Draft
+version: 1.0
 %%%
 
 

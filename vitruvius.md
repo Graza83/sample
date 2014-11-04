@@ -20,7 +20,7 @@ Test business service.
 
 # Components
 
-The following components where used to build this example service
+The following components where used to build this example service Test
 %%%Component
 name: Dao Component
 description: Used for Database interaction

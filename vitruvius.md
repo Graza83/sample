@@ -17,26 +17,6 @@ Test business service.
 
 # Context
 
-# Services
-
-
-# Components
-%%%Service
-name: Sample Servie
-description: Used for Database interaction
-link: ../services/daoComponent
-%%%
-
-The following components where used to build this example service 
-%%%Component
-name: Dao Component
-description: Used for Database interaction
-link: ../services/daoComponent
-%%%  
-%%%Component
-name: PaymentService
-link: ../services/paymentComponent
-%%%
 
 
 

@@ -21,7 +21,7 @@ The following components where used to build this example service
 %%%Component
 name: Dao Component
 description: Used for Database interaction
-link: ../services/daoComponent
+link: ../repository/daoComponent
 %%%  
 
 

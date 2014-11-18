@@ -12,7 +12,7 @@ version: 1.0
 
 Example People look up service.
 
-Test business service. Test
+Test business service.
 
 # Context
 

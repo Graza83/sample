@@ -19,7 +19,7 @@ Test business service.
 The following components where used to build this example service 
 %%%Component
 name: Dao Component
-description: Used for Database interaction
+description: Used for Database interaction test
 link: ../repository/daoComponent
 %%%  
 

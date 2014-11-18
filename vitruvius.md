@@ -10,7 +10,7 @@ version: 1.0
 
 # People Look Up Service
 
-Example People look up service. Test
+Example People look up service.
 
 Test business service.
 

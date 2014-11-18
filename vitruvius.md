@@ -26,7 +26,7 @@ link: ../repository/daoComponent
 
 
 # Transactions
-In order to fulfil the requirements of the business service, our has to perform interaction with multiple other services. The following shows how my example service interacts with the other services defined in this  document.
+In order to fulfil the requirements of the business service, our has to perform interaction with multiple other services. The following shows how my example service interacts with the other services defined.
 %%%sequence
 MyService->PeopleLookUpService: Find Person
 Note right of PeopleLookUpService: PeopleLookUpService performs a look up

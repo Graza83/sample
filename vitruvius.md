@@ -1,7 +1,6 @@
 %%%MetaData
 author: Amin Mohammed-Coleman <amin.mohammed-coleman@digital.cabinet-office.gov.uk>
 description: Example Service Definition 
-lastUpdated: 10/09/2014
 type: component
 department: departmentC
 status: Draft

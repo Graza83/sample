@@ -16,7 +16,7 @@ Test business service.
 
 # Context
 
-The following components where used to build this example.
+The following components where used to build this.
 %%%Component
 name: Dao Component
 description: Used for Database interaction test

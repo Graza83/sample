@@ -2,17 +2,15 @@
 author: Amin Mohammed-Coleman <amin.mohammed-coleman@digital.cabinet-office.gov.uk>
 description: Example Service Definition 
 type: component
-department: departmentC
-status: Draft
+department: example
+status: Example
 version: 1.0
 %%%
 
 
-# People Look Up Service
+# Git Hub Example Service
 
-Example People look up service.
-
-Test business service.
+Example vitruvius content on Git Hub.
 
 # Context
 
@@ -22,20 +20,3 @@ name: Dao Component
 description: Used for Database interaction
 link: ../repository/daoComponent
 %%%  
-
-
-
-# Transactions
-In order to fulfil the requirements of the business service, our has to perform interaction with multiple other services. The following shows how my example service interacts with the other services defined.
-%%%sequence
-MyService->PeopleLookUpService: Find Person
-Note right of PeopleLookUpService: PeopleLookUpService performs a look up
-PeopleLookUpService-->MyService: Returns an individual
-MyService->>PeopleLookUpService: Confirmation.
-%%%
-
-
-# Further Reading
-
-Test	
-
